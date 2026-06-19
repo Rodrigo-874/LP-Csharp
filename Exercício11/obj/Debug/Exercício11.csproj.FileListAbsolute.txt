@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\obj\Debug\Exercício11.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\obj\Debug\Exercício11.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\bin\Debug\Exercício11.exe.config
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\bin\Debug\Exercício11.exe
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\bin\Debug\Exercício11.pdb
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\obj\Debug\Exercício11.exe
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\obj\Debug\Exercício11.pdb
+C:\Users\Aluno\source\repos\rodrigo_vitoria\Exercício11\Exercício11\obj\Debug\Exercício11.exe.config
